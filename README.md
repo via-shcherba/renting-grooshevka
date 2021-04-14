@@ -10,13 +10,13 @@
 
 ### Cost $360
 
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6062.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6064.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6071.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6076.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6079.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6082.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6092.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6100.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6101.JPG)
-![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/master/IMG-6107.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6062.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6064.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6071.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6076.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6079.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6082.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6092.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6100.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6101.JPG)
+![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6107.JPG)
