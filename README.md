@@ -8,7 +8,7 @@
 1 минута до станции метро Грушевка. Подземный паркинг, шлагбаум на въезде на наземную парковку. Удобное транспортное сообщение и развитая инфраструктура.
 На длительный срок. 
 
-### Cost $360
+### Cost $380
 
 ![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6062.JPG)
 ![GitHub Logo](https://github.com/via-shcherba/renting-grooshevka/blob/main/IMG-6064.JPG)
